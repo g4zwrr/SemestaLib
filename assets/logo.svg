@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240"><style>.f{fill:#0A0A0B}.s{stroke:#0A0A0B;fill:none}@media(prefers-color-scheme:dark){.f{fill:#fff}.s{stroke:#fff;fill:none}}</style><defs>
+<clipPath id="bL"><rect x="-200" y="-200" width="400" height="200"/></clipPath>
+<clipPath id="frL"><rect x="-200" y="0" width="400" height="200"/></clipPath>
+<mask id="mL" maskUnits="userSpaceOnUse" x="-200" y="-200" width="400" height="400"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/><g transform="rotate(-22)"><path d="M-100,0 A100,28 0 0 0 100,0" fill="none" stroke="#000" stroke-width="13.799999999999999"/></g></mask>
+</defs>
+<g transform="translate(120 120)">
+<g transform="rotate(-22)"><path class="s" d="M-100,0 A100,28 0 0 1 100,0" stroke-width="6" opacity=".35"/><g clip-path="url(#bL)"><circle class="f" r="7"><animateMotion dur="8s" repeatCount="indefinite" path="M-100,0 A100,28 0 1 1 100,0 A100,28 0 1 1 -100,0Z"/></circle></g></g>
+<circle class="f" r="44" mask="url(#mL)"/>
+<g transform="rotate(-22)"><path class="s" d="M-100,0 A100,28 0 0 0 100,0" stroke-width="6"/><g clip-path="url(#frL)"><circle class="f" r="7"><animateMotion dur="8s" repeatCount="indefinite" path="M-100,0 A100,28 0 1 1 100,0 A100,28 0 1 1 -100,0Z"/></circle></g></g>
+</g></svg>
